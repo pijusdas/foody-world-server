@@ -1,0 +1,355 @@
+[
+  {
+    "id": 1,
+    "name": "Massimo Bottura",
+    "photo": "https://as2.ftcdn.net/v2/jpg/02/94/36/75/1000_F_294367527_ZIRoDXAuwhNTQpz6WtLOcvEt86gkKJ1k.jpg",
+    "yearsOfExperience": 3,
+    "recipesItems": 3,
+    "numberOfRecipes": [
+  {    
+        "name": "Spaghetti Bolognese",
+        "img": "https://www.ocado.com/cmscontent/recipe_image_large/33362787.png?awck",
+        "ingredients": [
+          "1 pound spaghetti",
+          "1 pound ground beef",
+          "1 onion, chopped",
+          "3 cloves garlic, minced",
+          "1 can (28 ounces) crushed tomatoes",
+          "1 tablespoon tomato paste",
+          "1 teaspoon dried basil",
+          "1/2 teaspoon dried oregano",
+          "Salt and freshly ground black pepper, to taste",
+          "Freshly grated Parmesan cheese, for serving"
+        ],
+        "cookingMethod": "1. Cook spaghetti according to package instructions until al dente.\n2. In a large skillet, cook ground beef over medium heat until browned.\n3. Add onion and garlic to the skillet and cook until softened.\n4. Add crushed tomatoes, tomato paste, dried basil, and dried oregano to the skillet.\n5. Season with salt and freshly ground black pepper, to taste.\n6. Bring the sauce to a simmer and let it cook for 10-15 minutes, stirring occasionally.\n7. Serve the spaghetti with the meat sauce and freshly grated Parmesan cheese.",
+        "rating": 4.7
+      },
+
+  {
+        "name": "Margherita Pizza",
+        "img": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=900&t=st=1683122409~exp=1683123009~hmac=e0d4c2b87f5d1a84e169c5f9c7d7a4ab728ae9d610c050aeda8cced89a664613",
+        "ingredients": [
+          "1 pound pizza dough",
+          "1/2 cup pizza sauce",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup grated Parmesan cheese",
+          "Fresh basil leaves, torn",
+          "Salt and freshly ground black pepper, to taste"
+        ],
+        "cookingMethod": "1. Preheat the oven to 475°F (245°C).\n2. Roll out the pizza dough on a lightly floured surface to a 12-inch (30cm) diameter.\n3. Transfer the dough to a lightly oiled baking sheet or pizza stone.\n4. Spread the pizza sauce evenly over the dough, leaving a 1/2-inch (1cm) border.\n5. Arrange the sliced mozzarella cheese on top of the sauce.\n6. Sprinkle the grated Parmesan cheese over the mozzarella.\n7. Season with salt and freshly ground black pepper, to taste.\n8. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n9. Remove the pizza from the oven and let it cool for a few minutes.\n10. Sprinkle torn basil leaves over the pizza.\n11. Slice and serve.",
+        "rating": 4.9
+      },
+      {
+        "name": "Caprese Salad",
+        "img": "https://img.freepik.com/free-photo/mozzarella-cheese-tomatoes-basil-herb-leaves-plate-white-wooden-table-caprese-salad-italian-food_2829-5994.jpg?w=740&t=st=1683122478~exp=1683123078~hmac=32df789d654f5ca3d1482e6e8e00b317ebf2c873d0f4ef09fb0f5a18483257c0",
+        "ingredients": [
+          "4 large ripe tomatoes",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves, torn",
+          "2 tablespoons extra-virgin olive oil",
+          "1 tablespoon balsamic vinegar",
+          "Salt and freshly ground black pepper, to taste"
+        ],
+        "cookingMethod": "1. Slice the tomatoes and mozzarella cheese into 1/4-inch (6mm) thick slices.\n2. Arrange the tomato and mozzarella slices on a platter, alternating them.\n3. Sprinkle the torn basil leaves over the tomato and mozzarella slices.\n4. In a small bowl, whisk together the extra-virgin olive oil and balsamic vinegar.\n5. Drizzle the vinaigrette over the salad.\n6. Season with salt and freshly ground black pepper, to taste.\n7. Serve at room temperature.",
+        "rating": 4.5
+      }
+    ],
+      "description": "Massimo Bottura is the chef patron of Osteria Francescana, a three-Michelin-starred restaurant in Modena, Italy. He is widely regarded as one of the best chefs in the world and is known for his inventive and experimental approach to Italian cuisine. Bottura has been recognized with numerous awards, including being named #1 on the World's 50 Best Restaurants list in 2016.",
+      "likes": 10000
+    },
+    {
+      "id": 2,
+      "name": "Gualtiero Marchesi",
+      "photo": "https://as1.ftcdn.net/v2/jpg/00/95/47/82/1000_F_95478277_ALUOxFgSAqCqHDKG11fgDtI1E5p3RwSR.jpg",
+      "yearsOfExperience": 3,
+      "recipesItems": 3,
+      "numberOfRecipes": [
+        {        
+              "name": "Tiramisu",
+              "img": "https://img.freepik.com/free-photo/slice-chocolate-brownie-with-walnut-vanilla-ice-cream_114579-778.jpg?w=740&t=st=1683122585~exp=1683123185~hmac=b391ae3ce1b36d1688c604585dae81a91e0727931ffd7bcb4f1fa3ddf982d429",
+              "ingredients": [
+                "1 pound spaghetti",
+                "1 pound ground beef",
+                "1 onion, chopped",
+                "3 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes",
+                "1 tablespoon tomato paste",
+                "1 teaspoon dried basil",
+                "1/2 teaspoon dried oregano",
+                "Salt and freshly ground black pepper, to taste",
+                "Freshly grated Parmesan cheese, for serving"
+              ],
+              "cookingMethod": "1. Cook spaghetti according to package instructions until al dente.\n2. In a large skillet, cook ground beef over medium heat until browned.\n3. Add onion and garlic to the skillet and cook until softened.\n4. Add crushed tomatoes, tomato paste, dried basil, and dried oregano to the skillet.\n5. Season with salt and freshly ground black pepper, to taste.\n6. Bring the sauce to a simmer and let it cook for 10-15 minutes, stirring occasionally.\n7. Serve the spaghetti with the meat sauce and freshly grated Parmesan cheese.",
+              "rating": 4.7
+            },
+      
+        {
+              "name": "Lasagna",
+              "img": "https://img.freepik.com/free-photo/classic-lasagna-with-bolognese-sauce_2829-14066.jpg?w=740&t=st=1683122648~exp=1683123248~hmac=166b1ac0ff24d881824e4af8c450d94e05acb6356225611851499d42710512a4",
+              "ingredients": [
+                "1 pound pizza dough",
+                "1/2 cup pizza sauce",
+                "8 ounces fresh mozzarella cheese, sliced",
+                "1/4 cup grated Parmesan cheese",
+                "Fresh basil leaves, torn",
+                "Salt and freshly ground black pepper, to taste"
+              ],
+              "cookingMethod": "1. Preheat the oven to 475°F (245°C).\n2. Roll out the pizza dough on a lightly floured surface to a 12-inch (30cm) diameter.\n3. Transfer the dough to a lightly oiled baking sheet or pizza stone.\n4. Spread the pizza sauce evenly over the dough, leaving a 1/2-inch (1cm) border.\n5. Arrange the sliced mozzarella cheese on top of the sauce.\n6. Sprinkle the grated Parmesan cheese over the mozzarella.\n7. Season with salt and freshly ground black pepper, to taste.\n8. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n9. Remove the pizza from the oven and let it cool for a few minutes.\n10. Sprinkle torn basil leaves over the pizza.\n11. Slice and serve.",
+              "rating": 4.9
+            }
+            ,
+      {
+        "name": "Fettuccine Alfredo",
+        "img": "https://img.freepik.com/free-photo/side-view-fork-with-spaghetti-around_140725-12161.jpg?w=360&t=st=1683122702~exp=1683123302~hmac=11a68d204926b2c6abe84f29237fe17ee7d3456055c4daeadfddf2ab6f4bc9a4",
+        "ingredients": [
+          "4 large ripe tomatoes",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves, torn",
+          "2 tablespoons extra-virgin olive oil",
+          "1 tablespoon balsamic vinegar",
+          "Salt and freshly ground black pepper, to taste"
+        ],
+        "cookingMethod": "1. Slice the tomatoes and mozzarella cheese into 1/4-inch (6mm) thick slices.\n2. Arrange the tomato and mozzarella slices on a platter, alternating them.\n3. Sprinkle the torn basil leaves over the tomato and mozzarella slices.\n4. In a small bowl, whisk together the extra-virgin olive oil and balsamic vinegar.\n5. Drizzle the vinaigrette over the salad.\n6. Season with salt and freshly ground black pepper, to taste.\n7. Serve at room temperature.",
+        "rating": 4.5
+      }
+          ],
+      "description": "Gualtiero Marchesi was an Italian chef who is widely considered the founder of modern Italian cuisine. He was the first Italian chef to receive three Michelin stars, and his innovative approach to cooking has had a significant impact on the development of Italian cuisine. Marchesi passed away in 2017, but his legacy lives on through his influence on the culinary world.",
+      "likes": 8500
+    },
+    {
+      "id": 3,
+      "name": "Antonio Carluccio",
+      "photo": "https://as2.ftcdn.net/v2/jpg/00/81/12/43/1000_F_81124372_cqdxjwFJVm4lbcOkgJlQA4Tu9HfFcQC4.jpg",
+      "yearsOfExperience": 6,
+      "recipesItems": 3,
+      "numberOfRecipes": [
+        {      
+              "name": "Minestrone Soup",
+              "img": "https://img.freepik.com/free-photo/lentil-soup-with-mixed-ingredients-herbs-white-bowl-with-spoon_114579-3083.jpg?w=900&t=st=1683122780~exp=1683123380~hmac=05960669242b86994ff3ef23729bdf776e9bb6af758e172001354976c289feec",
+              "ingredients": [
+                "1 pound spaghetti",
+                "1 pound ground beef",
+                "1 onion, chopped",
+                "3 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes",
+                "1 tablespoon tomato paste",
+                "1 teaspoon dried basil",
+                "1/2 teaspoon dried oregano",
+                "Salt and freshly ground black pepper, to taste",
+                "Freshly grated Parmesan cheese, for serving"
+              ],
+              "cookingMethod": "1. Cook spaghetti according to package instructions until al dente.\n2. In a large skillet, cook ground beef over medium heat until browned.\n3. Add onion and garlic to the skillet and cook until softened.\n4. Add crushed tomatoes, tomato paste, dried basil, and dried oregano to the skillet.\n5. Season with salt and freshly ground black pepper, to taste.\n6. Bring the sauce to a simmer and let it cook for 10-15 minutes, stirring occasionally.\n7. Serve the spaghetti with the meat sauce and freshly grated Parmesan cheese.",
+              "rating": 4.7
+            },
+      
+        {
+              "name": "Bruschetta",
+              "img": "https://www.freepik.com/free-photo/classic-italian-bruschetta-served-dark-board_4505809.htm#query=Bruschetta&position=3&from_view=search&track=robertav1_2_sidr",
+              "ingredients": [
+                "1 pound pizza dough",
+                "1/2 cup pizza sauce",
+                "8 ounces fresh mozzarella cheese, sliced",
+                "1/4 cup grated Parmesan cheese",
+                "Fresh basil leaves, torn",
+                "Salt and freshly ground black pepper, to taste"
+              ],
+              "cookingMethod": "1. Preheat the oven to 475°F (245°C).\n2. Roll out the pizza dough on a lightly floured surface to a 12-inch (30cm) diameter.\n3. Transfer the dough to a lightly oiled baking sheet or pizza stone.\n4. Spread the pizza sauce evenly over the dough, leaving a 1/2-inch (1cm) border.\n5. Arrange the sliced mozzarella cheese on top of the sauce.\n6. Sprinkle the grated Parmesan cheese over the mozzarella.\n7. Season with salt and freshly ground black pepper, to taste.\n8. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n9. Remove the pizza from the oven and let it cool for a few minutes.\n10. Sprinkle torn basil leaves over the pizza.\n11. Slice and serve.",
+              "rating": 4.9
+            }
+            ,
+      {
+        "name": "Carbonara",
+        "img": "https://img.freepik.com/free-photo/comida-lifestyle-spaghetti-foodie-gastronomy_1350-47.jpg?w=900&t=st=1683122949~exp=1683123549~hmac=6cdef163b0d76ecc8cefec9465c82391355f6c46a8361b26003ec9626b3ca508",
+        "ingredients": [
+          "4 large ripe tomatoes",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves, torn",
+          "2 tablespoons extra-virgin olive oil",
+          "1 tablespoon balsamic vinegar",
+          "Salt and freshly ground black pepper, to taste"
+        ],
+        "cookingMethod": "1. Slice the tomatoes and mozzarella cheese into 1/4-inch (6mm) thick slices.\n2. Arrange the tomato and mozzarella slices on a platter, alternating them.\n3. Sprinkle the torn basil leaves over the tomato and mozzarella slices.\n4. In a small bowl, whisk together the extra-virgin olive oil and balsamic vinegar.\n5. Drizzle the vinaigrette over the salad.\n6. Season with salt and freshly ground black pepper, to taste.\n7. Serve at room temperature.",
+        "rating": 4.5
+      }
+          ],
+      "description": "Antonio Carluccio was a well-known Italian chef and restaurateur who was dubbed the 'Godfather of Italian gastronomy'. He was a prolific cookbook author and television personality, and was known for his simple, rustic approach to Italian cooking. Carluccio passed away in 2017, but his influence on the world of Italian cuisine lives on.",
+      "likes": 12000
+    },
+    {
+      "id": 4,
+      "name": "Lidia Bastianich",
+      "photo": "https://as2.ftcdn.net/v2/jpg/02/94/35/95/1000_F_294359536_xH73VzOZEulHKkImbGfIv5lmwtVxjDcX.jpg",
+      "yearsOfExperience": 4,
+      "recipesItems": 3,
+      "numberOfRecipes": [
+        {      
+              "name": "Eggplant Parmesan",
+              "img": "https://img.freepik.com/free-photo/baked-aubergines-boats_658428-58.jpg?w=740&t=st=1683123128~exp=1683123728~hmac=d5bfe7d3a345f50ce6df9267eeefdd366b6d67d4ed133c722addc74dcac69877",
+              "ingredients": [
+                "1 pound spaghetti",
+                "1 pound ground beef",
+                "1 onion, chopped",
+                "3 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes",
+                "1 tablespoon tomato paste",
+                "1 teaspoon dried basil",
+                "1/2 teaspoon dried oregano",
+                "Salt and freshly ground black pepper, to taste",
+                "Freshly grated Parmesan cheese, for serving"
+              ],
+              "cookingMethod": "1. Cook spaghetti according to package instructions until al dente.\n2. In a large skillet, cook ground beef over medium heat until browned.\n3. Add onion and garlic to the skillet and cook until softened.\n4. Add crushed tomatoes, tomato paste, dried basil, and dried oregano to the skillet.\n5. Season with salt and freshly ground black pepper, to taste.\n6. Bring the sauce to a simmer and let it cook for 10-15 minutes, stirring occasionally.\n7. Serve the spaghetti with the meat sauce and freshly grated Parmesan cheese.",
+              "rating": 4.7
+            },
+      
+        {
+              "name": "Gnocchi",
+              "img": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19744.jpg?w=900&t=st=1683123208~exp=1683123808~hmac=afb32d7b6a92842fb253e9e1b3426e1f57a8ce219a02bd1af009f8c3a6499386",
+              "ingredients": [
+                "1 pound pizza dough",
+                "1/2 cup pizza sauce",
+                "8 ounces fresh mozzarella cheese, sliced",
+                "1/4 cup grated Parmesan cheese",
+                "Fresh basil leaves, torn",
+                "Salt and freshly ground black pepper, to taste"
+              ],
+              "cookingMethod": "1. Preheat the oven to 475°F (245°C).\n2. Roll out the pizza dough on a lightly floured surface to a 12-inch (30cm) diameter.\n3. Transfer the dough to a lightly oiled baking sheet or pizza stone.\n4. Spread the pizza sauce evenly over the dough, leaving a 1/2-inch (1cm) border.\n5. Arrange the sliced mozzarella cheese on top of the sauce.\n6. Sprinkle the grated Parmesan cheese over the mozzarella.\n7. Season with salt and freshly ground black pepper, to taste.\n8. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n9. Remove the pizza from the oven and let it cool for a few minutes.\n10. Sprinkle torn basil leaves over the pizza.\n11. Slice and serve.",
+              "rating": 4.9
+            }
+            ,
+      {
+        "name": "Chicken Parmesan",
+        "img": "https://img.freepik.com/free-photo/delicious-rice-chicken-meat-patties-with-garlic-tomato-sauce_2829-11012.jpg?w=826&t=st=1683123269~exp=1683123869~hmac=6a63bbf5ea96bc00a2175a9ed7b1e1dcc998062effcdac3b52862ed0038d583d",
+        "ingredients": [
+          "4 large ripe tomatoes",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves, torn",
+          "2 tablespoons extra-virgin olive oil",
+          "1 tablespoon balsamic vinegar",
+          "Salt and freshly ground black pepper, to taste"
+        ],
+        "cookingMethod": "1. Slice the tomatoes and mozzarella cheese into 1/4-inch (6mm) thick slices.\n2. Arrange the tomato and mozzarella slices on a platter, alternating them.\n3. Sprinkle the torn basil leaves over the tomato and mozzarella slices.\n4. In a small bowl, whisk together the extra-virgin olive oil and balsamic vinegar.\n5. Drizzle the vinaigrette over the salad.\n6. Season with salt and freshly ground black pepper, to taste.\n7. Serve at room temperature.",
+        "rating": 4.5
+      }
+          ],
+      "description": "Lidia Bastianich is a chef, television host, author, and restaurateur specializing in Italian cuisine. She is the owner of several successful restaurants, including Felidia and Becco in New York City. Bastianich is also a prolific cookbook author and has hosted several television shows, including Lidia's Italy and Lidia's Kitchen. She is widely regarded as one of the foremost authorities on Italian cuisine in the United States.",
+      "likes": 9500
+    },
+    {
+      "id": 5,
+      "name": "Carlo Cracco",
+      "photo": "https://as2.ftcdn.net/v2/jpg/00/73/82/99/1000_F_73829930_T2gYrqPZrtL9stjJpV9ZmgP4vzc3Kxhd.jpg",
+      "yearsOfExperience": 5,
+      "recipesItems": 3,
+      "numberOfRecipes": [
+        {    
+              "name": "Risotto",
+              "img": "https://img.freepik.com/free-photo/flat-lay-scrambled-eggs-with-tomatoes_23-2148224129.jpg?w=900&t=st=1683123318~exp=1683123918~hmac=ec04fdd6ca96432fb656b4f4ee6eeb6004b768b10ff1c1be2c495d9310ba0c1c",
+              "ingredients": [
+                "1 pound spaghetti",
+                "1 pound ground beef",
+                "1 onion, chopped",
+                "3 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes",
+                "1 tablespoon tomato paste",
+                "1 teaspoon dried basil",
+                "1/2 teaspoon dried oregano",
+                "Salt and freshly ground black pepper, to taste",
+                "Freshly grated Parmesan cheese, for serving"
+              ],
+              "cookingMethod": "1. Cook spaghetti according to package instructions until al dente.\n2. In a large skillet, cook ground beef over medium heat until browned.\n3. Add onion and garlic to the skillet and cook until softened.\n4. Add crushed tomatoes, tomato paste, dried basil, and dried oregano to the skillet.\n5. Season with salt and freshly ground black pepper, to taste.\n6. Bring the sauce to a simmer and let it cook for 10-15 minutes, stirring occasionally.\n7. Serve the spaghetti with the meat sauce and freshly grated Parmesan cheese.",
+              "rating": 4.7
+            },
+      
+        {
+              "name": "Osso Buco",
+              "img": "https://img.freepik.com/free-photo/roasted-grilled-beef-liver-with-onion-tomatoes-salad_2829-10732.jpg?w=900&t=st=1683123361~exp=1683123961~hmac=7d94e0c7fa9d2a105b50fd40913d17167779f4bc61782c7333a4f4a3556027a0",
+              "ingredients": [
+                "1 pound pizza dough",
+                "1/2 cup pizza sauce",
+                "8 ounces fresh mozzarella cheese, sliced",
+                "1/4 cup grated Parmesan cheese",
+                "Fresh basil leaves, torn",
+                "Salt and freshly ground black pepper, to taste"
+              ],
+              "cookingMethod": "1. Preheat the oven to 475°F (245°C).\n2. Roll out the pizza dough on a lightly floured surface to a 12-inch (30cm) diameter.\n3. Transfer the dough to a lightly oiled baking sheet or pizza stone.\n4. Spread the pizza sauce evenly over the dough, leaving a 1/2-inch (1cm) border.\n5. Arrange the sliced mozzarella cheese on top of the sauce.\n6. Sprinkle the grated Parmesan cheese over the mozzarella.\n7. Season with salt and freshly ground black pepper, to taste.\n8. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n9. Remove the pizza from the oven and let it cool for a few minutes.\n10. Sprinkle torn basil leaves over the pizza.\n11. Slice and serve.",
+              "rating": 4.9
+            }
+            ,
+      {
+        "name": "Panzanella Salad",
+        "img": "https://img.freepik.com/free-photo/caesar-salad-with-grilled-chicken-breast-parmesan-cherry-tomatoes_114579-2899.jpg?w=900&t=st=1683123406~exp=1683124006~hmac=00b4b304221a5cc8afa1e68fd340b4766a174bb1671deba92ff145f389964f50",
+        "ingredients": [
+          "4 large ripe tomatoes",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves, torn",
+          "2 tablespoons extra-virgin olive oil",
+          "1 tablespoon balsamic vinegar",
+          "Salt and freshly ground black pepper, to taste"
+        ],
+        "cookingMethod": "1. Slice the tomatoes and mozzarella cheese into 1/4-inch (6mm) thick slices.\n2. Arrange the tomato and mozzarella slices on a platter, alternating them.\n3. Sprinkle the torn basil leaves over the tomato and mozzarella slices.\n4. In a small bowl, whisk together the extra-virgin olive oil and balsamic vinegar.\n5. Drizzle the vinaigrette over the salad.\n6. Season with salt and freshly ground black pepper, to taste.\n7. Serve at room temperature.",
+        "rating": 4.5
+      }
+          ],
+      "description": "Carlo Cracco is a Michelin-starred Italian chef and television personality, known for his innovative Italian cuisine. He has worked at several high-profile restaurants throughout his career, including Gualtiero Marchesi's restaurant in Milan. Cracco has also appeared as a judge on the Italian version of MasterChef and has hosted his own",
+      "likes": 5500
+    },
+    {
+      "id": 6,
+      "name": "Carlo Cracco",
+      "photo": "https://img.freepik.com/free-photo/mid-shot-man-standing-near-baked-pizza-dough-with-ingredients_23-2148785693.jpg?w=360&t=st=1683170740~exp=1683171340~hmac=e16cb9bd19a1834b7b8ef76ed0d6ccafc7d558cfff1e5b410726d38c43ac4e43",
+      "yearsOfExperience": 5,
+      "recipesItems": 3,
+      "numberOfRecipes": [
+        {      
+              "name": "Pesto Pasta",
+              "img": "https://img.freepik.com/free-photo/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food_2829-5833.jpg?w=900&t=st=1683123465~exp=1683124065~hmac=dda85e158b74dd514365b0be026daa5ab6d9aef5d6484cd23265c76fa4045c8c",
+              "ingredients": [
+                "1 pound spaghetti",
+                "1 pound ground beef",
+                "1 onion, chopped",
+                "3 cloves garlic, minced",
+                "1 can (28 ounces) crushed tomatoes",
+                "1 tablespoon tomato paste",
+                "1 teaspoon dried basil",
+                "1/2 teaspoon dried oregano",
+                "Salt and freshly ground black pepper, to taste",
+                "Freshly grated Parmesan cheese, for serving"
+              ],
+              "cookingMethod": "1. Cook spaghetti according to package instructions until al dente.\n2. In a large skillet, cook ground beef over medium heat until browned.\n3. Add onion and garlic to the skillet and cook until softened.\n4. Add crushed tomatoes, tomato paste, dried basil, and dried oregano to the skillet.\n5. Season with salt and freshly ground black pepper, to taste.\n6. Bring the sauce to a simmer and let it cook for 10-15 minutes, stirring occasionally.\n7. Serve the spaghetti with the meat sauce and freshly grated Parmesan cheese.",
+              "rating": 4.7
+            },
+      
+        {
+              "name": "Prosciutto and Melon",
+              "img": "https://img.freepik.com/free-photo/meat-appetizer-plate-old-wooden-surface_2829-8274.jpg?w=360&t=st=1683123522~exp=1683124122~hmac=d3993c3d81fcb47a2e2d57e800b89d861fcd45a2cb5e4bf2cd1390b6e0715cdf",
+              "ingredients": [
+                "1 pound pizza dough",
+                "1/2 cup pizza sauce",
+                "8 ounces fresh mozzarella cheese, sliced",
+                "1/4 cup grated Parmesan cheese",
+                "Fresh basil leaves, torn",
+                "Salt and freshly ground black pepper, to taste"
+              ],
+              "cookingMethod": "1. Preheat the oven to 475°F (245°C).\n2. Roll out the pizza dough on a lightly floured surface to a 12-inch (30cm) diameter.\n3. Transfer the dough to a lightly oiled baking sheet or pizza stone.\n4. Spread the pizza sauce evenly over the dough, leaving a 1/2-inch (1cm) border.\n5. Arrange the sliced mozzarella cheese on top of the sauce.\n6. Sprinkle the grated Parmesan cheese over the mozzarella.\n7. Season with salt and freshly ground black pepper, to taste.\n8. Bake for 10-12 minutes, or until the crust is golden brown and the cheese is melted and bubbly.\n9. Remove the pizza from the oven and let it cool for a few minutes.\n10. Sprinkle torn basil leaves over the pizza.\n11. Slice and serve.",
+              "rating": 4.9
+            }
+            ,
+      {
+        "name": "Italian Wedding Soup",
+        "img": "https://img.freepik.com/free-photo/pasta-soup-table_140725-808.jpg?w=740&t=st=1683123573~exp=1683124173~hmac=8083c7f44ba3aaefd862918123978ede31a059e0be63bf7885efdfb0333ba196",
+        "ingredients": [
+          "4 large ripe tomatoes",
+          "8 ounces fresh mozzarella cheese, sliced",
+          "1/4 cup fresh basil leaves, torn",
+          "2 tablespoons extra-virgin olive oil",
+          "1 tablespoon balsamic vinegar",
+          "Salt and freshly ground black pepper, to taste"
+        ],
+        "cookingMethod": "1. Slice the tomatoes and mozzarella cheese into 1/4-inch (6mm) thick slices.\n2. Arrange the tomato and mozzarella slices on a platter, alternating them.\n3. Sprinkle the torn basil leaves over the tomato and mozzarella slices.\n4. In a small bowl, whisk together the extra-virgin olive oil and balsamic vinegar.\n5. Drizzle the vinaigrette over the salad.\n6. Season with salt and freshly ground black pepper, to taste.\n7. Serve at room temperature.",
+        "rating": 4.5
+      }
+          ],
+      "description": "Carlo Cracco is a Michelin-starred Italian chef and television personality, known for his innovative Italian cuisine. He has worked at several high-profile restaurants throughout his career, including Gualtiero Marchesi's restaurant in Milan. Cracco has also appeared as a judge on the Italian version of MasterChef and has hosted his own",
+      "likes": 9500
+    }
+  ]
